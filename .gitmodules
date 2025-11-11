@@ -16,3 +16,7 @@
 	path = 4-LinaraSun
 	url = https://github.com/spbu-coding-2025/4-LinaraSun.git
 	branch = main
+[submodule "4-RomanKazz"]
+	path = 4-RomanKazz
+	url = https://github.com/spbu-coding-2025/4-RomanKazz.git
+	branch = main
