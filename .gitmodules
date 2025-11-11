@@ -32,3 +32,7 @@
 	path = 4-gorbuzova
 	url = https://github.com/spbu-coding-2025/4-gorbuzova.git
 	branch = main
+[submodule "4-lupusarqentum"]
+	path = 4-lupusarqentum
+	url = https://github.com/spbu-coding-2025/4-lupusarqentum.git
+	branch = main
