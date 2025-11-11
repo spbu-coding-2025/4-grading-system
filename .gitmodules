@@ -12,3 +12,7 @@
 	path = 4-LeoN192
 	url = https://github.com/spbu-coding-2025/4-LeoN192.git
 	branch = main
+[submodule "4-LinaraSun"]
+	path = 4-LinaraSun
+	url = https://github.com/spbu-coding-2025/4-LinaraSun.git
+	branch = main
