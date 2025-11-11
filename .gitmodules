@@ -40,3 +40,7 @@
 	path = 4-narysh
 	url = https://github.com/spbu-coding-2025/4-narysh.git
 	branch = main
+[submodule "4-wydfiy"]
+	path = 4-wydfiy
+	url = https://github.com/spbu-coding-2025/4-wydfiy.git
+	branch = main
