@@ -20,3 +20,7 @@
 	path = 4-RomanKazz
 	url = https://github.com/spbu-coding-2025/4-RomanKazz.git
 	branch = main
+[submodule "4-danisaev"]
+	path = 4-danisaev
+	url = https://github.com/spbu-coding-2025/4-danisaev.git
+	branch = main
