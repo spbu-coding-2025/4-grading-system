@@ -36,3 +36,7 @@
 	path = 4-lupusarqentum
 	url = https://github.com/spbu-coding-2025/4-lupusarqentum.git
 	branch = main
+[submodule "4-narysh"]
+	path = 4-narysh
+	url = https://github.com/spbu-coding-2025/4-narysh.git
+	branch = main
