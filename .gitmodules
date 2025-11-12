@@ -64,3 +64,7 @@
 	path = 4-KrimPast
 	url = https://github.com/spbu-coding-2025/4-KrimPast.git
 	branch = main
+[submodule "4-Lizavod"]
+	path = 4-Lizavod
+	url = https://github.com/spbu-coding-2025/4-Lizavod.git
+	branch = main
