@@ -60,3 +60,7 @@
 	path = 4-DenisPotapov0
 	url = https://github.com/spbu-coding-2025/4-DenisPotapov0.git
 	branch = main
+[submodule "4-KrimPast"]
+	path = 4-KrimPast
+	url = https://github.com/spbu-coding-2025/4-KrimPast.git
+	branch = main
