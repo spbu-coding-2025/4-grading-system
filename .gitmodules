@@ -76,3 +76,7 @@
 	path = 4-Maxdess067
 	url = https://github.com/spbu-coding-2025/4-Maxdess067.git
 	branch = main
+[submodule "4-Maxllon"]
+	path = 4-Maxllon
+	url = https://github.com/spbu-coding-2025/4-Maxllon.git
+	branch = main
