@@ -44,3 +44,7 @@
 	path = 4-wydfiy
 	url = https://github.com/spbu-coding-2025/4-wydfiy.git
 	branch = main
+[submodule "4-AlexeyMashkovichUniWork"]
+	path = 4-AlexeyMashkovichUniWork
+	url = https://github.com/spbu-coding-2025/4-AlexeyMashkovichUniWork.git
+	branch = main
