@@ -116,3 +116,7 @@
 	path = 4-kijexs
 	url = https://github.com/spbu-coding-2025/4-kijexs.git
 	branch = main
+[submodule "4-meow79"]
+	path = 4-meow79
+	url = https://github.com/spbu-coding-2025/4-meow79.git
+	branch = main
