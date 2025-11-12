@@ -100,3 +100,7 @@
 	path = 4-arinamklvch
 	url = https://github.com/spbu-coding-2025/4-arinamklvch.git
 	branch = main
+[submodule "4-e4d08"]
+	path = 4-e4d08
+	url = https://github.com/spbu-coding-2025/4-e4d08.git
+	branch = main
