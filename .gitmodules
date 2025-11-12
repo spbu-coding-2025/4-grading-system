@@ -92,3 +92,7 @@
 	path = 4-alferukn
 	url = https://github.com/spbu-coding-2025/4-alferukn.git
 	branch = main
+[submodule "4-altrum06"]
+	path = 4-altrum06
+	url = https://github.com/spbu-coding-2025/4-altrum06.git
+	branch = main
