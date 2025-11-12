@@ -120,3 +120,7 @@
 	path = 4-meow79
 	url = https://github.com/spbu-coding-2025/4-meow79.git
 	branch = main
+[submodule "4-polka777"]
+	path = 4-polka777
+	url = https://github.com/spbu-coding-2025/4-polka777.git
+	branch = main
