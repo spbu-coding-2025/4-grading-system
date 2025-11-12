@@ -72,3 +72,7 @@
 	path = 4-LuhTonkaYeat
 	url = https://github.com/spbu-coding-2025/4-LuhTonkaYeat.git
 	branch = main
+[submodule "4-Maxdess067"]
+	path = 4-Maxdess067
+	url = https://github.com/spbu-coding-2025/4-Maxdess067.git
+	branch = main
