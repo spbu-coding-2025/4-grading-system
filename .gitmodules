@@ -52,3 +52,7 @@
 	path = 4-Brulevich-Nikita
 	url = https://github.com/spbu-coding-2025/4-Brulevich-Nikita.git
 	branch = main
+[submodule "4-ButyugovMxx"]
+	path = 4-ButyugovMxx
+	url = https://github.com/spbu-coding-2025/4-ButyugovMxx.git
+	branch = main
