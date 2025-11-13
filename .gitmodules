@@ -128,3 +128,7 @@
 	path = 4-qwerty787878
 	url = https://github.com/spbu-coding-2025/4-qwerty787878.git
 	branch = main
+[submodule "4-Ganesha1967"]
+	path = 4-Ganesha1967
+	url = https://github.com/spbu-coding-2025/4-Ganesha1967.git
+	branch = main
