@@ -136,3 +136,7 @@
 	path = 4-Prosto-Dan
 	url = https://github.com/spbu-coding-2025/4-Prosto-Dan.git
 	branch = main
+[submodule "4-liptonn405"]
+	path = 4-liptonn405
+	url = https://github.com/spbu-coding-2025/4-liptonn405.git
+	branch = main
