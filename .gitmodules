@@ -144,3 +144,7 @@
 	path = 4-IvRevver
 	url = https://github.com/spbu-coding-2025/4-IvRevver.git
 	branch = main
+[submodule "4-agresh775"]
+	path = 4-agresh775
+	url = https://github.com/spbu-coding-2025/4-agresh775.git
+	branch = main
