@@ -140,3 +140,7 @@
 	path = 4-liptonn405
 	url = https://github.com/spbu-coding-2025/4-liptonn405.git
 	branch = main
+[submodule "4-IvRevver"]
+	path = 4-IvRevver
+	url = https://github.com/spbu-coding-2025/4-IvRevver.git
+	branch = main
