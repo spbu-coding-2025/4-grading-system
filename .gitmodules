@@ -180,3 +180,7 @@
 	path = 4-GRIGAeo
 	url = https://github.com/spbu-coding-2025/4-GRIGAeo.git
 	branch = main
+[submodule "4-Iseyne"]
+	path = 4-Iseyne
+	url = https://github.com/spbu-coding-2025/4-Iseyne.git
+	branch = main
