@@ -173,6 +173,34 @@ fi
 
 if [[ -n "$IS_CI" ]]; then
 	printf "\n::endgroup::\n"
+	printf "::group::"
+fi
+echo "Try to submit solution using student's HwProj id"
+
+STUDENT_ID=$(awk -v login="$STUDENT_LOGIN" 'BEGIN{FS=","}{ if ($2==login) print$3 }' "$HWPROJ_STUDENTS_PATH")
+
+if curl -X 'POST' --fail-with-body \
+  "https://hwproj.ru/api/Solutions/automated/$HWPROJ_COURSE_ID" \
+  -H 'accept: */*' \
+  -H "Authorization: Bearer $HWPROJ_AUTH_TOKEN" \
+  -H 'Content-Type: application/json' \
+  -d "{
+  \"taskId\": \"$HWPROJ_TASK_ID\",
+  \"taskIdType\": \"Title\",
+  \"studentId\": \"$STUDENT_ID\",
+  \"studentIdType\": \"Id\",
+  \"githubUrl\": \"https://github.com/${GH_OWNER}/${GH_SUBMODULE}\",
+  \"comment\": \"Автоматизированно\"
+}"; then
+	if [[ -n "$IS_CI" ]]; then
+		printf "\n::endgroup::\n"
+	fi
+	echo "Submitted successfully"
+	exit 0
+fi
+
+if [[ -n "$IS_CI" ]]; then
+	printf "\n::endgroup::\n"
 fi
 
 echo "Cannot submit solution"
