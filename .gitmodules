@@ -176,3 +176,7 @@
 	path = 4-AndyBarnv
 	url = https://github.com/spbu-coding-2025/4-AndyBarnv.git
 	branch = main
+[submodule "4-GRIGAeo"]
+	path = 4-GRIGAeo
+	url = https://github.com/spbu-coding-2025/4-GRIGAeo.git
+	branch = main
