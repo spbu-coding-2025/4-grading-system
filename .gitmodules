@@ -196,3 +196,7 @@
 	path = 4-tzubenin
 	url = https://github.com/spbu-coding-2025/4-tzubenin.git
 	branch = main
+[submodule "4-A-Sozonov"]
+	path = 4-A-Sozonov
+	url = https://github.com/spbu-coding-2025/4-A-Sozonov.git
+	branch = main
