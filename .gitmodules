@@ -216,3 +216,7 @@
 	path = 4-OmfavneAvSkogen
 	url = https://github.com/spbu-coding-2025/4-OmfavneAvSkogen.git
 	branch = main
+[submodule "4-atsa111"]
+	path = 4-atsa111
+	url = https://github.com/spbu-coding-2025/4-atsa111.git
+	branch = main
